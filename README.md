@@ -26,13 +26,7 @@
 [![Devops](https://skillicons.dev/icons?i=aws,docker,jenkins)](https://skillicons.dev)
 
 ## Connect with me  
-<div align="left" >
-  <a href="https://github.com/phyuki" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/pedro-henrique-ntgoes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  
+<div>
+  <a href="https://github.com/phyuki"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;<a href="https://linkedin.com/in/pedro-henrique-ntgoes"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
 </div>  
 
