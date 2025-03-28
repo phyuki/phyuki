@@ -27,6 +27,6 @@
 
 ## Connect with me  
 <div>
-  <a href="https://github.com/phyuki"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;<a href="https://linkedin.com/in/pedro-henrique-ntgoes"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+  <a href="https://github.com/phyuki"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/pedro-henrique-ntgoes"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
 </div>  
 
